@@ -26,8 +26,9 @@
 </p>
 <br />
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&locale=en" alt="wlady" /></p>
-<br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wladmyralmeida&" alt="wlady" /></p>
+<a href="https://github.com/wladmyralmeida/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wladmyralmeida&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/fliperdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wladmyralmeida&repo=fliperdev" />
+</a>

@@ -26,9 +26,4 @@
 </p>
 <br />
 
-<a href="https://github.com/wladmyralmeida">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wladmyralmeida" />
-</a>
-<a href="https://github.com/fliperdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wladmyralmeida&repo=fliperdev" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&locale=en&count_private=true" alt="wlady" /></p>

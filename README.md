@@ -26,4 +26,7 @@
 </p>
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&locale=en&count_private=true" alt="wlady" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&count_private=true" alt="wlady" /></p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladmyralmeida)](https://github.com/anuraghazra/github-readme-stats)

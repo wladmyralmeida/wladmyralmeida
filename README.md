@@ -25,4 +25,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css" width="40" height="40"/> </a>
 </p>
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&theme=radical&count_private=true)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&theme=radical&count_private=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wladmyralmeida&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wladmyralmeida)](https://github.com/anuraghazra/github-readme-stats)
+

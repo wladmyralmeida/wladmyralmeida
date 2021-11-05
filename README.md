@@ -30,7 +30,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladmyralmeida&show_icons=true&theme=radical&count_private=true)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wladmyralmeida)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wladmyralmeida)](https://github.com/wladmyralmeida)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wladmyralmeida)](https://github.com/anuraghazra/github-readme-stats)

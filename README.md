@@ -25,6 +25,3 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css" width="40" height="40"/> </a>
 </p>
 <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wladmyralmeida)
-

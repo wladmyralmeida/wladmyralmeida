@@ -2,7 +2,7 @@
 **wladmyralmeida/wladmyralmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
 
-<h1 align="center">Hi 👋, I'm Wlady</h1>
+<h1 align="center">Hi 👋, I'm Wladmyr ![image](https://user-images.githubusercontent.com/40966093/195164814-59c4f812-cfde-444c-88f1-dca1d1803b0b.png)</h1>
 <h3 align="center">Actually Software Engineer at XP Inc.</h3>
 
 - 💻 I Love Computer, Science, Astronomy, Code, Motorcycles, Musics and Games.

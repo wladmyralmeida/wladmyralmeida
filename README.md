@@ -3,13 +3,12 @@
 !-->
 
 <h1 align="center">Hi 👋, I'm Wlady</h1>
-<h3 align="center">Software Engineer.</h3>
+<h3 align="center">Actually Software Engineer at XP Inc.</h3>
 
-- 💻 I Love Computer, Code and Games.
+- 💻 I Love Computer, Science, Astronomy, Code, Motorcycles, Musics and Games.
+- 💙 But **Flutter** has my heart since 2019.
 
-- 💙 In specially **Flutter, Dart**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me at</h3>
 <p align="left">
  <a href="https://www.gmail.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  

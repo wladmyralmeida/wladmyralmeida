@@ -11,12 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.gmail.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="wlady" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wladmyr-almeida/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wlady" height="30" width="40" /></a>
-<a href="https://instagram.com/wladm1r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wlady" height="30" width="40" /></a>
+ <a href="https://www.gmail.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="wlady" height="30" width="40" /></a>
+ 
+<a href="https://www.linkedin.com/in/wladmyr-almeida/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+<a href="https://instagram.com/wladm1r" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 <br />
 
+Animação com créditos para o bwolf: https://github.com/Bwolfs2/bwolfs2
 ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>

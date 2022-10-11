@@ -9,11 +9,14 @@
 - 💙 But **Flutter** has my heart since 2019.
 
 <h3 align="left">Connect with me at</h3>
-<a href="https://www.gmail.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+<p><a href="https://www.gmail.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 <a href="https://www.linkedin.com/in/wladmyr-almeida/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 <a href="https://instagram.com/wladm1r" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
 
 ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
 

@@ -3,7 +3,7 @@
 !-->
 
 <h1 align="center">Hi, my name is Wladmyr! Yeah...🧛</h1>
-<h3 align="center">Actually Software Engineer at XP Inc.</h3>
+<h3 align="center">Software Engineer Full Stack.</h3>
 
 - 💻 I Love Computer, Science, Astronomy, Code, Motorcycles, Musics and Games.
 - 💙 But **Flutter** has my heart since 2019.
